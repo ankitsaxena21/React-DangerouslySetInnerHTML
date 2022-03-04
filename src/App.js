@@ -8,7 +8,7 @@ const App = () => {
 
   const data = `
   <h3>Welcome to this page</h3>
-  <p>Hope you keep coding</p>
+  <p>May the code be with you</p>
   <img src=??? onerror="alert('XSS')" />
   `;
   //1-  Open Redirection-location.replace('https://medium.com/me/stories/drafts')
