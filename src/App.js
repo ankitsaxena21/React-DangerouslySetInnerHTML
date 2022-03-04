@@ -3,9 +3,7 @@ import DOMPurify from 'dompurify';
 import './App.css';
 
 const App = () => {
-
-  const websiteDefacement = `<div><img src='https://c.tenor.com/K2VcFLiyC5YAAAAC/greetings-f-society.gif' /><img src='https://c.tenor.com/e73LQkmBbcUAAAAS/mr-robot-happy.gif' /></div>`
-
+  
   const data = `
   <h3>Welcome to this page</h3>
   <p>May the code be with you</p>
